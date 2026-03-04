@@ -48,7 +48,6 @@ Deployment:
 
 Vercel
 
-
 🎯 Project Objective
 
 FarmGenie aims to bridge the gap between traditional agricultural practices and modern digital technologies by providing an integrated platform that enhances transparency, efficiency, and accessibility in agricultural transactions.
@@ -63,7 +62,7 @@ Real-time equipment tracking
 
 Expanded multilingual support
 
-👨‍💻 Author
+👨‍💻 Author  
 
 Ahsan Javed
 Final Year Project – BS Computer Science
